@@ -6,7 +6,7 @@ It is extended version of [Google Maps Place Picker](https://pub.dev/packages/go
 
 Also it use [Rest Countries API](https://restcountries.eu/) for getting Alpha Code 2 of the location. The code will use for checking the if the selected location is equals to the inputted [region].
 
-The project relies on below packages.
+#The project relies on below packages.
 
 Map using Flutter's official [google_maps_flutter](https://pub.dev/packages/google_maps_flutter).
 
