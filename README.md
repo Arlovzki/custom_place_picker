@@ -17,6 +17,4 @@ Builder using kevmoo's [tuple](https://pub.dev/packages/tuple).
 
 Also it use [Rest Countries API](https://restcountries.eu/) for getting Alpha Code 2 of the location. The code will use for checking the if the selected location is equals to the inputted [region].
 
-
-
-
+[Click here](https://docs.google.com/document/d/1YDQmy4sL_LS2qG2sTEXNRr9yJdNFG2SzVojtX4zm7yw/edit?usp=sharing) to view the full documentation.
